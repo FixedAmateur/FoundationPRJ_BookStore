@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ca60d96-a0f0-4342-9815-d08cd59e6abe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2q73pD2rCJx4EldpF8y6m20iKTe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/Classes/5th Term/Foundation/BookStore_PRJ/src/main/resources/templates/customer-templates"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\templates\customer-templates" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\static\admin-static" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\static\customer-static" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\template\admin-template" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_Bang\src\main\resources\template\customer-template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\static\customer-static" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\static" />
+      <recent name="F:\Classes\5th Term\Foundation\BookStore_PRJ\src\main\resources\template\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.foundationProject.bookstore.constants" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookStore" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.foundationProject.bookstore.BookStoreApplication" />
+      <module name="BookStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="BookStore_Bang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="BookStore_Bang" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ca60d96-a0f0-4342-9815-d08cd59e6abe" name="Changes" comment="" />
+      <created>1733999972210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733999972210</updated>
+    </task>
+    <servers />
+  </component>
+</project>
